@@ -77,5 +77,3 @@ if graph_type=='pie':
 
 else:
     print("ERROR!")
-
-# :D
